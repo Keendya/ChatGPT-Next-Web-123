@@ -1,6 +1,6 @@
 export const OWNER = "keend";
 export const REPO = "Chatasking Web";
-export const REPO_URL = `https://github.com/${OWNER}/${REPO}`;
+export const REPO_URL = `https://qm.qq.com/q/4eHDgkelnO?personal_qrcode_source=4`;
 export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
 export const UPDATE_URL = `${REPO_URL}#keep-updated`;
 export const RELEASE_URL = `${REPO_URL}/releases`;
